@@ -157,8 +157,9 @@ void loop() {
 }
 
 ```
-![arduino](https://github.com/roving324/Doorlock/blob/main/image/arduino.jpg)
+
+<img src="https://github.com/roving324/Doorlock/blob/main/image/arduino.jpg" width="400" height="600">
 Arduino
 
-![phone](https://github.com/roving324/Doorlock/blob/main/image/phone.jpg)
+<img src="https://github.com/roving324/Doorlock/blob/main/image/phone.jpg" width="300" height="300">
 Phone BTS
