@@ -161,5 +161,5 @@ void loop() {
 <img src="https://github.com/roving324/Doorlock/blob/main/image/arduino.jpg" width="400" height="600">
 Arduino
 
-<img src="https://github.com/roving324/Doorlock/blob/main/image/phone.jpg" width="300" height="300">
+<img src="https://github.com/roving324/Doorlock/blob/main/image/phone.jpg" width="600" height="300">
 Phone BTS
