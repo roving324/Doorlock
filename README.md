@@ -158,8 +158,8 @@ void loop() {
 
 ```
 
-<img src="https://github.com/roving324/Doorlock/blob/main/image/arduino.jpg" width="400" height="600">
+<img src="https://github.com/roving324/Doorlock/blob/main/image/arduino.jpg" width="700" height="500">
 Arduino
 
-<img src="https://github.com/roving324/Doorlock/blob/main/image/phone.jpg" width="600" height="300">
+<img src="https://github.com/roving324/Doorlock/blob/main/image/phone.jpg" width="400" height="800">
 Phone BTS
