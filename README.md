@@ -1,7 +1,5 @@
 # Doorlock
 
-# IMG
-
 <img src="https://github.com/roving324/Doorlock/blob/main/image/arduino.jpg" width="700" height="500">
 Arduino
 
